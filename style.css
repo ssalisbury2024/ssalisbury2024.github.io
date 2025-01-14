@@ -1,0 +1,38 @@
+body {
+
+	background-color:lightgoldenrodyellow;
+}
+
+h3 { 
+	color:lightcoral;
+	font-family:monospace;
+	font-size: 40;
+	text-align: center;
+	border:2px solid lightcoral;
+	background-color: paleturquoise;
+}
+
+h4 {
+	color:lightcoral;
+	font-family:monospace;
+	font-size: 30;
+	text-align: center;
+}
+
+p {
+
+	color:lightcoral;
+	font-family: monospace;
+	font-size: 25;
+	text-align: center;
+	border:2px solid lightcoral;
+	background-color: paleturquoise;
+
+}
+
+img {
+	border:5px solid paleturquoise;
+	width:90%;
+	height: 60%;
+	margin-left:50px
+}
