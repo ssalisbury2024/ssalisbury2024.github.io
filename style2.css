@@ -1,0 +1,39 @@
+
+
+h3 { 
+	color:thistle;
+	font-family:unset;
+	font-size: 30;
+	text-align: center;
+
+}
+
+h4 {
+	color:thistle;
+	font-family:unset;
+	font-size: 30;
+	text-align: center;
+
+}
+
+p {
+
+	color:thistle;
+	font-family:unset;
+	font-size: 30;
+	text-align: center;
+}
+
+
+img {
+	border:5px deepskyblue;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+@font-face{
+	font-family: cursive;
+	src:https://fontzone.net/font-details/kunstler-script;
+}
